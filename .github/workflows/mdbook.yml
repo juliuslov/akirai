@@ -1,33 +1,35 @@
-name: Auto Update GitBook SUMMARY.md
+name: Auto Update GitBook
 
 on:
   push:
-    paths:
-      - 'pages/**'
-    branches:
-      - main
+    branches: [main]
 
 jobs:
-  update-summary:
+  update-gitbook:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate SUMMARY.md
+      - name: Generate GitBook SUMMARY.md
         run: |
-          echo "# Summary" > SUMMARY.md
-          find pages -type f -name '*.md' | sort | while read file; do
-            title=$(head -n 1 "$file" | sed 's/# //')
-            path=$(echo "$file" | sed 's|pages/||')
-            echo "* [$title](pages/$path)" >> SUMMARY.md
+         echo "# Table of Contents " > SUMMARY.md
+          find pages -type f -name "*.md" | sort | while read file; do
+            title=$(head -1 "$file" | sed 's/^# //')
+            relpath="${file}"
+            echo "* [${title}](${relpath})" >> SUMMARY.md
           done
 
-      - name: Commit and push if changed
+      - name: Commit & Push if changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git add SUMMARY.md
-          git diff --cached --quiet || git commit -m "Auto-update SUMMARY.md"
-          git push
-          
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update SUMMARY.md"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
