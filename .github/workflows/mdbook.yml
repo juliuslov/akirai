@@ -1,70 +1,42 @@
-name: Update GitBook SUMMARY.md
+name: GitBook Auto Build & Summary Update
 
 on:
   push:
     branches:
-      - main
+      - main   # change if needed
 
 jobs:
-  update-summary:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
-      - name: Checkout code
+      - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # needed to push changes
 
-      # Set up Node.js (required for GitBook CLI)
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '18'
 
-      # Install GitBook CLI
       - name: Install GitBook CLI
         run: npm install -g gitbook-cli
 
-      # Set up Python (required for the summary generation script)
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+      - name: Build GitBook in pages/
+        working-directory: pages
+        run: gitbook build
 
-      # Install dependencies for the Python script
-      - name: Install Python dependencies
-        run: pip install gitbook-auto-summary
-
-      # Run the script to update SUMMARY.md
-      - name: Update SUMMARY.md
+      - name: Check for SUMMARY.md changes
+        id: diff
         run: |
-          python -m gitbook_auto_summary . -o
-        working-directory: ./docs
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet SUMMARY.md || echo "changed=true" >> $GITHUB_OUTPUT
 
-      # Check for changes in SUMMARY.md
-      - name: Check for changes
-        id: check-changes
+      - name: Commit and push changes if any
+        if: steps.diff.outputs.changed == 'true'
         run: |
-          git add .
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            echo "::set-output name=changes::false"
-          else
-            echo "Changes detected"
-            echo "::set-output name=changes::true"
-          fi
-
-      # Configure git
-      - name: Configure git
-        if: steps.check-changes.outputs.changes == 'true'
-        run: |
-          git config --global user.name "GitBook Bot"
-          git config --global user.email "bot@gitbook.com"
-
-      # Commit and push changes
-      - name: Commit and push changes
-        if: steps.check-changes.outputs.changes == 'true'
-        run: |
-          git commit -m "Auto-update SUMMARY.md"
+          git add pages/SUMMARY.md
+          git commit -m "Auto update SUMMARY.md via GitHub Actions"
           git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
