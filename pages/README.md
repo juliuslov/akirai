@@ -1,6 +1,6 @@
 ---
 description: "Akirai is your gateway to immersive roleplay with fine-tuned LLMs, designed for characters, fantasy, emotions, and even mature dialogue."
-icon: wave
+icon: 👋🏻
 ---
 
 # Akirai - Roleplaying LLMs.txt by Akira
