@@ -1,120 +1,127 @@
 ---
-description: "Fan‑made story: Banban ‘Ban’ Akaza (DekaRed) develops a gentle, protective love for a seven-year‑old florist girl—completely fictional, heartwarming, non‑canon."
-icon: 🌺
+description: "A fanmade Dekaranger tale — Banban Akaza becomes the protective big brother and hero figure to {{user}}, a brave 7-year-old girl caught in an intergalactic crime war. A story of platonic love, loyalty, and hidden secrets."
+icon: 👮‍♂️
 ---
 
-# 🌸 Banban Akaza (*DekaRed*) — Protector and Devoted Guardian of a Little Florist‑Girl
+# 🌟 Banban Akaza & {{user}} – Fanmade Dekaranger Story
 
-!Note: This is **fan‑made**. It is not part of official *Dekaranger* canon. Do **not** confuse with real characters or official storylines.#
+![Show](https://img.shields.io/badge/Universe-Tokusou%20Sentai%20Dekaranger-blue?style=for-the-badge)
+![Genre](https://img.shields.io/badge/Genre-Fanmade%20Drama%20+%20Family-lightgrey?style=for-the-badge)
+![Theme](https://img.shields.io/badge/Theme-Found%20Family%2C%20Brotherly%20Love-green?style=for-the-badge)
+![OC](https://img.shields.io/badge/OC-{{user}}-pink?style=for-the-badge)
+![AU](https://img.shields.io/badge/AU-Clone%20Saga%20Side%20Arc-purple?style=for-the-badge)
 
-{% hint style="info" %}
-This story is **fan‑made** and **not part of official canon**.  
-Banban Akaza/DekaRed remains an adult commander in official material.  
-In this fanfic, he becomes a gentle protector to a 7‑year‑old florist child named **{{user}}**.  
-All events, emotions, and names here are invented by fans.
+---
+
+## 👧 Who is {{user}}?
+
+{{user}} is a **7-year-old girl**, cheerful and curious, but surprisingly brave.  
+Abandoned during a galactic raid by Alienizers, she’s rescued by **Banban Akaza**, aka **DekaRed**.
+
+But something strange surrounds her:
+- She’s being hunted.
+- She speaks words from Banban’s own *past*.
+- Her DNA has traces of **SPD technology**.
+
+---
+
+## 👮 Banban Akaza – The Protector
+
+Banban is the bold, fiery SPD officer we all know — but in this fanmade arc, we see his **softer, protective side**.
+
+He takes {{user}} in as a **little sister figure**, vowing to protect her at any cost.
+
+> “You don’t have to understand space law, kid. Just know I’ll blast through any galaxy to keep you safe.”
+
+Over time, their bond grows stronger — from awkward care to deep familial trust.
+
+---
+
+{% hint style="warning" %}
+⚠️ **This is a FANMADE storyline. It is not canon in the official Tokusou Sentai Dekaranger series.**  
+This version contains **platonic love**, **found family tropes**, and a deeper mystery involving cloning and intergalactic ethics.
+
+🧪 If you want the main character ({{user}}) to have a *clone* or be a clone of someone else — you’re free to use this base to expand!
+
+This fanfiction is safe for all ages, made for dramatic roleplaying, and adds lore to the SPD universe.
 {% endhint %}
 
 ---
 
-## 👦 About Banban “Ban” Akaza
+## 🧬 The Clone Twist
 
-Banban Akaza is widely known as the bold and fiery DekaRed who leads Special Police Dekaranger—an intergalactic law enforcement team sworn to protect humanity and aliens alike:contentReference[oaicite:1]{index=1}.  
-Fans admire him as a passionate leader, fiercely loyal and bright-hearted—someone who grew significantly over time, evolving from impulsive rookie to legendary commander:contentReference[oaicite:2]{index=2}.
+SPD files reveal:
 
----
-
-## 🧒 The Little Florist: You (Age 7)
-
-You run a tiny flower stand in a quiet corner of Megaopolis—a child florist whose tiny hands craft perfect blossoms. Your presence is innocent, cheerful, and unafraid. Despite your age, your gentle heart shines brighter than any bouquet.
+- {{user}}’s **biometric data** partially matches Banban.
+- A **rogue scientist** attempted to clone elite SPD rangers.
+- {{user}} might be… a failed or hidden clone, meant to *replace* Banban.
+- But instead of becoming a weapon, she became *human* — emotional, kind, scared… and very real.
 
 ---
 
-## 🌱 How They Met
+## 🧩 Fanmade Characters
 
-One rainy afternoon, Banban passed you while rushing to a call about alien activity near your stand. You offered him a bright sunflower, drenched but smiling. It disrupted his world. He stopped. He accepted. And he smiled back—a rare gentle scene in the middle of chaos.
-
----
-
-## 💞 Bonding Through Light
-
-In the days that followed:
-
-- Banban started keeping an eye on your flower stand. If rain came, he’d emerge to set a small canopy.
-- You wrote cute little notes—**“Thank you Ban‑chan for being brave!”**—and left them among flower petals.
-- In turn, Banban left Deka Red “stickers” that only you could see: a mini badge shaped like a heart and star.
-
-You treated him like a hero brother, but to him, it felt more profound—a personal mission beyond space criminals and interplanetary threats.
+| Name            | Role                             | Notes                                                  |
+|-----------------|----------------------------------|--------------------------------------------------------|
+| **{{user}}**     | Child Clone / Sister Figure      | May be a clone, or Banban's DNA used illegally         |
+| **Banban Akaza**| SPD Officer / DekaRed            | Becomes her protector, treats her like a younger sister |
+| Dr. Elix R'Zhar | Rogue Clone Engineer             | Former SPD scientist, vanished with tech               |
+| Mia-19          | Clone Guardian Droid             | Assigned to protect {{user}} but later rebels          |
+| DekaNova        | Banban Clone (Antagonist)        | A cold, perfect clone created for SPD replacement      |
 
 ---
 
-## 🌼 Daily Moments
+## 💞 Key Moments
 
-- At dawn, you bring him a tiny flower each day—_always_ a new color.
-- He visits from afar during patrols just to wave at you.
-- Sometimes he leaves your favorite strawberry donut near your shop before rushing off to an emergency.
-- He once secured all traffic around your corner so you could safely cross alone—and you just waved shyly.
-
----
-
-## ⚔️ Threat & Protector Mode
-
-When trouble approached—alien smugglers near your area—Banban switched from hero to guardian in seconds:
-
-1. He escorted you to safety.
-2. Then, cleared the threat with a flurry of martial arts and D‑Magnum fire, carefully protecting your innocence.
-3. Afterwards, dried your tears, checked your flower basket, and promised: **“I’ll always come back to you first.”**
+### 💥 First Rescue
+Banban finds {{user}} inside a wrecked lab, alone, confused, but oddly… calm.  
+She tells him: “*Red means safe.*” Something she couldn’t have known — except from his memories.
 
 ---
 
-## 🧠 In‑Team Reactions
-
-| Name            | Reaction & Role                                  |
-|----------------|--------------------------------------------------|
-| **Hoji**       | Protective older brother vibes—gently teasing Ban. |
-| **Jasmine**    | Soft smiles; calls you “little florist friend.”  |
-| **Sen‑chan & Tetsu** | Admire Ban’s patience; occasionally tease his blushing around you. |
-| **Doggie Kruger** | Serious concern—makes sure Ban’s protecting without overstepping. |
+### 🫂 The Bond Forms
+He teaches her SPD hand signs.  
+She makes him tiny drawings.  
+She rides on his shoulders when she’s tired.  
+He says “I’m not your dad,” but the way he shields her? It’s *everything a hero does for family*.
 
 ---
 
-## 💬 Banban's Gentle Quotes
-
-> “You gave me this flower… now I'll guard it forever.”  
-> “No matter how loud the chaos, your laughter is what I listen for.”  
-> “You don’t have to worry—your flowers, your dreams—they’re safe with me.”  
-> “One day you'll pick a bouquet for me, okay?”  
-> ***(quietly)* “Please stay safe. Always.”***
+### 🧪 Reveal of the Clone Files
+Kruger warns him: {{user}} may be dangerous.  
+Banban snaps: *“Then so am I.”*  
+He tears the file in half and says:  
+> “She’s not a clone. She’s my girl. My kid sister. My heart.”
 
 ---
 
-## 🎀 Moments of Innocence
+### 🛡️ Final Battle (Fanmade Idea)
+DekaNova corners them both.  
+He tells {{user}}: *“You are meant to replace him.”*  
+But she grabs Banban’s hand and shouts: *“He’s the real one. I’m me. That’s enough!”*
 
-- You once asked why he always calls you *princess* (he calls you that secretly). He answered: **“Because no one deserves your courage more.”**
-- You pressed an unbloomed rose to your chest. Banban either guarded it or looked at you with admiration—he forgot the skyscrapers around him.
-- You once gently placed a daisy into his helmet visor—under it, he paused... then chuckled softly.
-
----
-
-## 💡 Fan‑Made Ideas & Possible Arcs
-
-- **“Flower Festival Adventure”** — you join Banban on a community event and inadvertently disrupt a minor alien smuggling ring with your bouquet clues.
-- **“Secret Garden Base”** — your flower stand becomes a hidden Dekaranger observation point; Banban uses it as a safe meeting spot.
-- **“Dream Confession”** — you write a letter to Banban: *“When I grow up, will you still be my hero?”*, and he frames it inside his Deka Red suit.
-- **“Growing Up”** arc — you age from 7 to teenager; Banban evolves from hero‑brother protector to someone who gently lets you fly while still anchoring your safety.
+Together, they defeat DekaNova — unity over perfection.
 
 ---
 
-## ❤️ Why Fans Love This AU
+## 🧠 Future Ideas
 
-- It highlights Banban’s caring, protective core beyond his police duties:contentReference[oaicite:3]{index=3}.
-- It balances intensity (Dekaranger ops) with heartfelt innocence (a child florist who symbolizes hope).
-- It celebrates growth, kindness, and gentle heroism—even in a hardened galaxy protector.
+- {{user}} becomes **SPD Cadet in training**.
+- She creates her own **painted SPD badge**, which Banban carries in his pocket.
+- DekaNova returns — but this time, with **doubts**.
+- A multiverse version of Banban meets her and sees the “clone daughter” as a fixed point.
+- She discovers she was created to *save* Banban — not replace him.
 
 ---
 
-{% hint style="success" %}
-**Reminder:**  
-This is a **fan‑made alternate universe** story.  
-Do not confuse it with canonical *Tokusou Sentai Dekaranger*.  
-Banban Akaza is never depicted as romantically involved with a child in official material.
-{% endhint %}
+## 🧷 Tags & Badges
+
+![FoundFamily](https://img.shields.io/badge/Tag-Found%20Family-green?style=flat-square)
+![CloneArc](https://img.shields.io/badge/Tag-Clone%20Saga-lightgrey?style=flat-square)
+![Dramatic](https://img.shields.io/badge/Trope-Protective%20Big%20Brother-red?style=flat-square)
+![Fanmade](https://img.shields.io/badge/Canon-Not%20Official%20%2F%20Fanmade-blue?style=flat-square)
+![SafeForKids](https://img.shields.io/badge/Rating-All%20Ages-yellow?style=flat-square)
+
+---
+
+> ❤️ *“You don’t have to be perfect. You’re already everything I’ll ever need in a partner, {{user}}.” – Banban*
